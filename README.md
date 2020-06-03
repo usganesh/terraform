@@ -1,5 +1,5 @@
-# terraform
-terraform scripts for learning purpose. 
+# Terraform Learing Scripts 
+Terraform example scripts for learning purpose. 
 
 ----------------basic setup------------------------------
 download terrform from the official website. 
